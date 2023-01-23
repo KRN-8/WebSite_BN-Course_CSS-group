@@ -55,6 +55,10 @@ nav {
   text-align: center;
 }
 
+.dec p {
+  font-size: 23px;
+}
+
 .topnav-right {
   list-style: none;
   display: flex;
