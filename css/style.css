@@ -36,7 +36,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #1f2937;
-    padding:  1rem 4rem;
+    padding:  1rem 7.375rem;
     color: white;
   }
   
@@ -70,6 +70,7 @@ header {
     font-size: 48px;
     font-weight: 800;
     color: #f9faf8;
+    
 }
 .buttonsection1{
     background-color: #3882f6;
@@ -91,6 +92,7 @@ table {
     font-size: 18px;
     color: #E5E7EB;
     font-family: 'RobotoBlack', sans-serif;
+    width: 25rem;
 }
 .section-2 {
     padding-left: 220px;
