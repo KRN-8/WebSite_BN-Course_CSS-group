@@ -46,6 +46,15 @@ nav {
   color: white;
 }
 
+.dec {
+  padding-top: 4rem;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  text-align: center;
+}
+
 .topnav-right {
   list-style: none;
   display: flex;
