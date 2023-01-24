@@ -75,8 +75,8 @@ main {
 
 .section-1 {
   background-color: #1f2937;
-  margin-bottom: 50px;
-  margin-top: 50px;
+  padding-bottom: 6.25rem;
+  padding-top: 6.25rem;
 }
 
 .awesome {
@@ -239,6 +239,11 @@ footer {
 }
 
 @media only screen and (max-width: 992px) {
+  .fig-captions1 {
+    align-items: center;
+    text-align: center;
+  }
+
   .logo {
     display: none;
   }
